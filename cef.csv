@@ -1,0 +1,1033 @@
+pec,Material,Description
+pec,97826,"Bolt,flange-metr.sm."
+pec,113934,Ppc-male
+pec,116596,Pipe clip (1-2lines)
+pec,116763,Pipe clip (1-2lines)
+pec,119129,"Washer,copper-seal."
+pec,119136,"Washer,copper-seal."
+pec,204294,"Plug,sealing-metr.f."
+pec,210914,"Plug,sealing-"
+pec,214024,"Plug,sealing-metr.f."
+pec,222833,"Plug,sealing-"
+pec,224218,"Stud,shouldered,metr"
+pec,240583,"Plug,sealing-metr.f."
+pec,243562,"Plug,sealing-metr.f."
+pec,244680,"Washer,copper-seal."
+pec,251837,"Pin,davel-cyl."
+pec,251838,"Pin,davel-cyl."
+pec,253249,Pipe clip (1-2lines)
+pec,259589,Pipe clip (1-2lines)
+pec,267438,"Plug,expansion"
+pec,272563,"Nut,flange-metr.sm."
+pec,279097,"Plug,expansion"
+pec,281264,"Plug,sealing-"
+pec,296672,"Washer,plain-normal"
+pec,300799,"Screw,hex.sckt.metr."
+pec,302743,"Pin,cylindrical"
+pec,322364,"Washer,copper-seal."
+pec,325421,"Washer,plain-hard"
+pec,331328,"Washer,copper-seal."
+pec,331341,"Washer,copper-seal."
+pec,346625,"Washer,copper-seal."
+pec,366912,"Ring,O-"
+pec,393728,"Bush,adapter"
+pec,506907,Pipe clip (1-2lines)
+pec,547744,"Plug,sealing-metr.f."
+pec,610734,Pipe clip (1-2lines)
+pec,620480,Pipe clip (1-2lines)
+pec,632216,Pipe clip (1-2lines)
+pec,754807,"Bolt,flange-metr.sm."
+pec,761461,"Spring clip,fixing"
+pec,824313,"Washer,plain-hard-3d"
+pec,894852,"Bolt,flange-metr.sm."
+pec,964414,Cylinder head
+pec,965294,Cylinder block
+pec,965669,Cylinder head
+pec,965928,Cylinder block
+pec,965956,Cylinder head
+pec,965957,Cylinder block
+pec,966444,Cylinder block
+pec,1231051,"Nut,flange-metr.sm."
+pec,1231053,"Bolt,flange-10.9"
+pec,1231054,"Bolt,flange-10.9"
+pec,1231055,"Bolt,flange-10.9"
+pec,1231056,"Bolt,flange-10.9"
+pec,1231058,"Bolt,flange-10.9"
+pec,1231059,"Bolt,flange-10.9"
+pec,1231060,"Bolt,flange-10.9"
+pec,1231062,"Bolt,flange-10.9"
+pec,1236376,"Bolt,flange-10.9"
+pec,1236379,"Bolt,flange-10.9"
+pec,1243049,"Bolt,flange-10.9"
+pec,1243062,"Bolt,flange-10.9"
+pec,1243064,"Bolt,flange-10.9"
+pec,1243066,"Bolt,flange-10.9"
+pec,1243069,"Bolt,flange-10.9"
+pec,1243070,"Bolt,flange-10.9"
+pec,1243071,"Bolt,flange-10.9"
+pec,1243072,"Bolt,flange-10.9"
+pec,1243073,"Bolt,flange-10.9"
+pec,1243074,"Bolt,flange-10.9"
+pec,1243075,"Bolt,flange-10.9"
+pec,1243076,"Bolt,flange-10.9"
+pec,1243077,"Bolt,flange-10.9"
+pec,1243078,"Bolt,flange-10.9"
+pec,1262541,"Bolt,flange-10.9"
+pec,1295124,"Screw,hexal.soc.h"
+pec,1295125,"Screw,hexal.soc.h"
+pec,1295126,"Screw,hexal.soc.h"
+pec,1295127,"Screw,hexal.soc.h"
+pec,1300390,"Bolt,flange-lock.cd"
+pec,1305343,"Bolt,flange-10.9"
+pec,1308111,Pipe clip (1-2lines)
+pec,1308113,Pipe clip (1-2lines)
+pec,1313115,"Bolt,flange-10.9"
+pec,1313116,"Bolt,flange-10.9"
+pec,1313117,"Bolt,flange-10.9"
+pec,1313118,"Bolt,flange-10.9"
+pec,1313119,"Bolt,flange-10.9"
+pec,1313120,"Bolt,flange-10.9"
+pec,1313121,"Bolt,flange-10.9"
+pec,1313122,"Bolt,flange-10.9"
+pec,1313123,"Bolt,flange-10.9"
+pec,1313124,"Bolt,flange-10.9"
+pec,1313126,"Bolt,flange-10.9"
+pec,1313127,"Bolt,flange-10.9"
+pec,1313128,"Bolt,flange-10.9"
+pec,1313129,"Bolt,flange-10.9"
+pec,1313132,"Bolt,flange-10.9"
+pec,1313133,"Bolt,flange-10.9"
+pec,1313137,"Bolt,flange-10.9"
+pec,1313138,"Bolt,flange-10.9"
+pec,1313139,"Bolt,flange-10.9"
+pec,1313140,"Bolt,flange-10.9"
+pec,1313141,"Bolt,flange-10.9"
+pec,1313142,"Nut,flange-metr.sm."
+pec,1313553,"Bolt,flange-lock.cd"
+pec,1313556,"Bolt,flange-10.9"
+pec,1314386,"Bolt,flange-lock.cd"
+pec,1314792,"Bolt,flange-lock.cd"
+pec,1316599,"Bolt,flange-10.9"
+pec,1317875,"Bolt,flange-10.9"
+pec,1317877,"Bolt,flange-10.9"
+pec,1317880,"Bolt,flange-10.9"
+pec,1317881,"Bolt,flange-10.9"
+pec,1320539,"Bolt,flange-lock.cd"
+pec,1320547,"Bolt,flange-lock.cd"
+pec,1325842,"Cap, protection"
+pec,1329632,Connector parts
+pec,1329925,Ppc-male
+pec,1357360,"Clip,hose/pipe"
+pec,1365744,"Bearing,plain"
+pec,1378253,"Cap, protection"
+pec,1380147,"Bolt,flange-10.9"
+pec,1382284,"Stud,shouldered,metr"
+pec,1384960,"Clip,hose/pipe"
+pec,1437610,"Bolt,flange-10.9"
+pec,1458910,Hub
+pec,1458936,Gasket general
+pec,1458991,"Plate,locking-"
+pec,1603977,"Ring,O-"
+pec,1603978,"Ring,O-"
+pec,1607337,"Bolt,flange-lock.cd"
+pec,1607435,Sens/switch motion-
+pec,1607436,Sens/switch motion-
+pec,1608393,"Ring,sealing"
+pec,1608394,"Ring,sealing"
+pec,1613216,Ball
+pec,1622758,"Bolt,flange-smooth"
+pec,1625018,"Wiring harness,eng."
+pec,1625019,"Wiring harness,eng."
+pec,1626241,Flywheel
+pec,1630565,"Pin,cylindrical"
+pec,1636108,Plug
+pec,1636220,Ball
+pec,1636857,"Bolt,flange-lock.cd"
+pec,1637699,"Plug,sealing-metr.f."
+pec,1642177,Guard
+pec,1642187,Connector parts
+pec,1644961,Pipe clip (1-2lines)
+pec,1645642,Tappet
+pec,1649454,"Pipe,oil"
+pec,1650551,"Pipe,oil"
+pec,1650761,"Bolt,flange-lock.cd"
+pec,1655127,"Strap,clmpg.plast."
+pec,1655712,Engine bearing shell
+pec,1656157,"Stud,shouldered,metr"
+pec,1656419,"Cap,filler pipe"
+pec,1656420,"Cap,filler pipe"
+pec,1656612,"Clip,hose/pipe"
+pec,1660212,"Stud,shouldered,metr"
+pec,1660564,Pin
+pec,1670123,"Bolt,flange-smooth"
+pec,1670902,"Bracket,engine"
+pec,1670903,"Bracket,engine"
+pec,1671262,"Pipe,oil"
+pec,1673257,"Pin,davel-cyl."
+pec,1673640,"Strap,clmpg.plast."
+pec,1675249,Bridge valve train
+pec,1680503,"Plug,sealing-"
+pec,1682176,"Pin,connecting"
+pec,1682342,Conn.piece with seal
+pec,1682505,Gear wheel
+pec,1684828,"Bush, 0-20.0 o.d."
+pec,1686194,"Stud,shouldered,metr"
+pec,1687103,"Washer,plain-hard"
+pec,1687333,"Cap, protection"
+pec,1689286,Hub
+pec,1689473,"Washer,thrust"
+pec,1694591,"Pin,davel-cyl."
+pec,1697921,Pin
+pec,1726047,"Bolt,flange-10.9"
+pec,1726048,"Stud,cyl.,metr."
+pec,1733593,Flywheel
+pec,1734441,"Plug,sealing-"
+pec,1734442,"Plug,sealing-"
+pec,1734575,"Stud,shouldered,metr"
+pec,1736755,Thrustwshr.crankshft
+pec,1737232,"Plate,blanking"
+pec,1737233,"Plate,blanking"
+pec,1738898,"Bracket,elect.eqpt."
+pec,1740852,"Strap,clmpg.plast."
+pec,1741502,Valve seat cyl.head
+pec,1743262,Bolt/screw-thd. roll
+pec,1778068,"Plate,flexible"
+pec,1778623,"Plug,sealing-"
+pec,1778700,"Cap, protection"
+pec,1779100,"Pin,cylindrical"
+pec,1780418,"Clip,pipe-1-6 lines"
+pec,1780809,Engine bearing shell
+pec,1781714,Gasket general
+pec,1783501,"Ring,O-"
+pec,1783648,"Spring,valve,engine"
+pec,1783650,"Key,valve"
+pec,1783796,"Bush, 0-20.0 o.d."
+pec,1783976,"Ring,O-"
+pec,1785085,"Cap,filler pipe"
+pec,1785878,"Cap, protection"
+pec,1785879,"Cap, protection"
+pec,1785880,"Cap, protection"
+pec,1786103,"Gasket,exhaust"
+pec,1786142,Gasket general
+pec,1786758,"Gasket,pipe flange"
+pec,1789299,Housing
+pec,1789468,"Bolt,flange-smooth"
+pec,1789518,"Bolt,flange-10.9"
+pec,1791123,"Bracket,locking"
+pec,1798137,Sensor/switch temp.-
+pec,1798947,Power take off assy.
+pec,1800587,Element
+pec,1805059,Flywheel
+pec,1805278,"Washer,thrust"
+pec,1805902,Flywheel housing
+pec,1806787,Injector sleeve
+pec,1808631,Connector parts
+pec,1812844,"Bolt,flange-smooth"
+pec,1814486,"Strap,clmpg.plast."
+pec,1819063,"Spring,valve,engine"
+pec,1819065,"Ring,sealing"
+pec,1819929,"Spring clip,fixing"
+pec,1820961,Ppc-male
+pec,1821685,"Spring,valve,engine"
+pec,1822165,"Bolt,main bear.cap"
+pec,1822166,"Bolt,cylinder head"
+pec,1822717,"Stud,shouldered,metr"
+pec,1822941,"Bolt,flange-smooth"
+pec,1824510,Dipstick tube
+pec,1825283,Spring cap
+pec,1825888,Sens/switch motion-
+pec,1827058,Sensor/switch temp.-
+pec,1827930,"Cap, protection"
+pec,1830958,"Stud,shouldered,metr"
+pec,1832311,"Valve,feed"
+pec,1833059,Bolt/screw capt.wshr
+pec,1833330,Valve guide
+pec,1834020,Valve seat cyl.head
+pec,1835659,"Spring clip,fixing"
+pec,1836989,"Bolt,flange-10.9"
+pec,1837775,Gear wheel
+pec,1837778,Gear wheel
+pec,1840701,"Clip,pipe-1-6 lines"
+pec,1840905,Bolt/screw capt.wshr
+pec,1843659,"Cartridge,coolant"
+pec,1843816,"Cap, protection"
+pec,1844101,Sensor/switch temp.-
+pec,1844625,Bonded seal
+pec,1844920,Connector parts
+pec,1850087,"Spring,valve,engine"
+pec,1853698,"Pump,power steering"
+pec,1854424,Connector parts
+pec,1854705,"Pin,shear/break bolt"
+pec,1854706,"Pin,shear/break bolt"
+pec,1856324,Cylinder liner
+pec,1856559,Connector parts
+pec,1857221,"Stud,shouldered,metr"
+pec,1857222,"Stud,shouldered,metr"
+pec,1857228,"Stud,shouldered,metr"
+pec,1857229,"Stud,shouldered,metr"
+pec,1858032,Bonded seal
+pec,1858035,Bonded seal
+pec,1858036,Bonded seal
+pec,1858037,Bonded seal
+pec,1858038,Bonded seal
+pec,1858039,Bonded seal
+pec,1858464,"Pin,connecting"
+pec,1858819,Engine bearing shell
+pec,1860417,"Pipe,flexible"
+pec,1860775,"Washer,plain-hard"
+pec,1863266,Conn.piece with seal
+pec,1863980,Conn.piece with seal
+pec,1864977,Connector parts
+pec,1866039,"Pin,connecting"
+pec,1866629,"Pin,connecting"
+pec,1866811,"Stud,shouldered,metr"
+pec,1867257,Tappet
+pec,1869392,Connector parts
+pec,1869393,Connector parts
+pec,1870243,"Strap,clmpg.plast."
+pec,1872095,"Gasket,exhaust"
+pec,1872137,"Plate,flexible"
+pec,1872256,"Bolt,flange-smooth"
+pec,1873020,Sensor/switch temp.-
+pec,1873279,"Bolt,flange-smooth"
+pec,1873490,"Clip,hose/pipe"
+pec,1874697,"Key,valve"
+pec,1875538,Connector parts
+pec,1876189,"Seal ring,crankshaft"
+pec,1876190,"Seal ring,crankshaft"
+pec,1876833,"Clip,hose/pipe"
+pec,1877877,"Strap,tightening"
+pec,1877878,"Strap,tightening"
+pec,1878095,"Stud,shouldered,metr"
+pec,1880063,Gasket general
+pec,1880151,"Bolt,flange-smooth"
+pec,1880156,"Pipe,fuel injection"
+pec,1880157,"Pipe,fuel injection"
+pec,1882709,Badge
+pec,1884282,"Ring,O-"
+pec,1885471,"Cover,valve"
+pec,1885524,"Pump,power steering"
+pec,1885525,"Pump,power steering"
+pec,1885526,"Pump,power steering"
+pec,1885695,"Pipe,oil filling"
+pec,1885701,"Pipe,sensor"
+pec,1885707,"Bracket,fuel syst."
+pec,1885741,"Bracket,exh.,engine"
+pec,1885744,Exhaust pipe
+pec,1885765,"Bracket,air inl.eng."
+pec,1885766,"Hose,m40213/40214"
+pec,1885848,"Hose,m40213/40214"
+pec,1885852,"Pipe,oil"
+pec,1885859,"Pipe,fuel system"
+pec,1886101,"Bracket,exh.,engine"
+pec,1886111,"Gasket,exhaust"
+pec,1887206,Roller guide V-belt
+pec,1887222,"Bracket,alternator"
+pec,1887224,"Cover,cyl.block"
+pec,1887273,"Cap, protection"
+pec,1889400,Coup.q.rel.ml.
+pec,1889581,"Spring clip,fixing"
+pec,1889692,Connecting piece
+pec,1889715,"Bolt,flange-smooth"
+pec,1889796,"Valve,control"
+pec,1889877,Dipstick tube
+pec,1889878,Dipstick tube
+pec,1890245,"Bracket,elect.eqpt."
+pec,1891524,"Hose,special"
+pec,1891814,"Hose nozzle,ml./fml."
+pec,1891858,"Stud,shouldered,metr"
+pec,1892359,"Cooler, egr-"
+pec,1892919,"Line,air breather"
+pec,1893478,Sensor/switch temp.-
+pec,1893488,"Bolt,flange-smooth"
+pec,1893775,Roller guide V-belt
+pec,1894531,"Bolt,flange-smooth"
+pec,1894764,"Gasket,pipe flange"
+pec,1895803,"Pump,power steering"
+pec,1895972,"Bolt,flange-smooth"
+pec,1896312,Accs.heating coil
+pec,1896527,Spring cap
+pec,1898180,"Stud,shouldered,metr"
+pec,1899998,"Gasket,exhaust"
+pec,1900070,Heat shield
+pec,1900260,"Plug,sealing-"
+pec,1900265,"Bolt,flange-smooth"
+pec,1901284,Bolt/screw capt.wshr
+pec,1901538,"Pipe,flexible"
+pec,1901809,"Spring clip,fixing"
+pec,1901899,"Bolt,cylinder head"
+pec,1902689,Coup.q.rel.fml.
+pec,1903436,"Strap,clmpg.plast."
+pec,1905210,"Wiring harness,eng."
+pec,1905461,"Bolt,flange-smooth"
+pec,1905548,"Pipe,fuel system"
+pec,1905563,Lifting eye
+pec,1905795,"Strap,clmpg.plast."
+pec,1906238,"Pulley,v-belt"
+pec,1906428,"Stud,shouldered,metr"
+pec,1906483,Gear wheel
+pec,1906763,Gear wheel
+pec,1907301,"Ring,anti polishing"
+pec,1907399,"Gasket,air inlet"
+pec,1907984,"Pulley,toothed belt"
+pec,1908086,"Bush, 0-20.0 o.d."
+pec,1910323,"Spring clip,fixing"
+pec,1910628,"Pipe,air inlet syst."
+pec,1911472,"Ring,O-"
+pec,1911776,Adaptor
+pec,1911868,Camshaft
+pec,1911869,Camshaft
+pec,1911870,Camshaft
+pec,1912044,"Stud,shouldered,metr"
+pec,1913109,"Pipe,coolant,51-"
+pec,1913651,"Stud,shouldered,metr"
+pec,1913718,"Bolt,flange-lock.cd"
+pec,1913732,"Bracket,locking"
+pec,1913734,"Ring,sealing"
+pec,1913735,"Gasket,exhaust"
+pec,1914142,Valve seat cyl.head
+pec,1914143,Valve seat cyl.head
+pec,1914474,fuel rail
+pec,1915962,"Spring clip,fixing"
+pec,1916267,"Bracket,air inl.eng."
+pec,1916496,"Stud,shouldered,metr"
+pec,1916724,Flywheel
+pec,1917011,"Gasket,exhaust"
+pec,1917012,"Gasket,pipe flange"
+pec,1917284,"Bracket,elect.eqpt."
+pec,1917480,"Stud,shouldered,metr"
+pec,1917528,"Stud,shouldered,metr"
+pec,1917870,"Gasket,exhaust"
+pec,1917944,"Bracket,elect.eqpt."
+pec,1917974,"Bracket,elect.eqpt."
+pec,1918028,"Bracket,elect.eqpt."
+pec,1918067,"Bracket,elect.eqpt."
+pec,1918077,"Bracket,elect.eqpt."
+pec,1918083,"Bracket,elect.eqpt."
+pec,1918089,"Bracket,elect.eqpt."
+pec,1918097,"Bracket,elect.eqpt."
+pec,1918644,Heat shield
+pec,1919017,"Coupling piece,strt."
+pec,1919200,"Pipe,oil filling"
+pec,1919784,"Pipe,air inlet syst."
+pec,1919888,"Manifold,exhaust"
+pec,1920127,"Bush,50-     o.d."
+pec,1920584,"Ring,O-"
+pec,1921308,"Plate,blanking"
+pec,1921309,"Pipe,oil"
+pec,1921560,Holder
+pec,1921561,"Line,air breather"
+pec,1921652,Cylinder liner
+pec,1921655,"Ring,anti polishing"
+pec,1921726,"Bracket,EGR"
+pec,1921728,Screw external torx
+pec,1921785,Ppc-male
+pec,1921811,Cover
+pec,1922080,"Ring,O-"
+pec,1922082,"Ring,O-"
+pec,1922163,"Cooler, egr-"
+pec,1922514,"Spring clip,fixing"
+pec,1922629,"Bolt,flange-lock.cd"
+pec,1922641,"Bolt,banjo-"
+pec,1922642,"Bolt,banjo-"
+pec,1922643,"Bolt,banjo-"
+pec,1922645,"Bolt,banjo-"
+pec,1922646,"Bolt,banjo-"
+pec,1923003,"Gasket,air inlet"
+pec,1923376,"Seal ring,crankshaft"
+pec,1923380,"Seal ring,crankshaft"
+pec,1923947,"Pipe,sensor"
+pec,1924018,"Nozzle,oil"
+pec,1924508,"Plate,fix.devd.th2-4"
+pec,1924543,Connector parts
+pec,1925276,"Pipe,sensor"
+pec,1925443,"Bracket,mounting"
+pec,1925803,Accs.heating coil
+pec,1926048,"Pipe,compressor"
+pec,1926327,Airbr.cs.cl.unit eng
+pec,1926342,Cyl.block.pre-assy.
+pec,1926343,"Bush, 0-20.0 o.d."
+pec,1929945,"Gasket,exhaust"
+pec,1930520,"Pipe,fuel injection"
+pec,1931721,Tappet
+pec,1931960,"Strip,fixing-devtd."
+pec,1932803,"Bearing,plain"
+pec,1932890,"Gasket,cylinder head"
+pec,1933121,"Valve,control"
+pec,1933158,"Pipe,coolant"
+pec,1933160,"Pipe,oil"
+pec,1933533,Engine bearing shell
+pec,1933971,"Clip,hose/pipe"
+pec,1934162,Plug
+pec,1934321,fuel rail
+pec,1934436,Turbocharger unit
+pec,1934641,Engine bearing shell
+pec,1934642,Engine bearing shell
+pec,1935146,Ppc-male
+pec,1935147,Ppc-male
+pec,1935148,Adaptor
+pec,1935149,"Stud,shouldered,metr"
+pec,1935414,Bonded seal
+pec,1938764,"Bracket,elect.eqpt."
+pec,1939743,Bearing cap
+pec,1939774,"Bolt,flange-smooth"
+pec,1939849,Connecting rod
+pec,1939882,"Bracket,z,bent 3-4mm"
+pec,1940933,Cover
+pec,1941089,Hub
+pec,1943262,"Stud,shouldered,metr"
+pec,1943415,"Pipe,coolant"
+pec,1943482,Flywheel
+pec,1943996,Adaptor
+pec,1944053,Roller guide V-belt
+pec,1945026,Engine brake
+pec,1945384,"Spring clip,fixing"
+pec,1945474,"Pin,shear/break bolt"
+pec,1945477,Spring cap
+pec,1945943,"Clip,pipe-1-6 lines"
+pec,1945970,"Pump,power steering"
+pec,1946021,Coup.q.rel.fml.
+pec,1946022,Coup.q.rel.fml.
+pec,1946039,Guard
+pec,1946509,"Bracket,z,bent 3-4mm"
+pec,1947211,Flywheel housing
+pec,1948132,Engine bearing shell
+pec,1948287,Dipstick tube
+pec,1948288,Dipstick tube
+pec,1948298,"Plate,blanking"
+pec,1948299,"Plate,blanking"
+pec,1948823,"Pipe,oil"
+pec,1949410,Power take off assy.
+pec,1949530,"Plug,air-bleeding"
+pec,1950134,"Spring clip,fixing"
+pec,1951173,"Pipe,coolant,00-11"
+pec,1951174,"Pipe,coolant,00-11"
+pec,1951753,"Bracket,air inl.eng."
+pec,1951803,"Pipe,coolant,00-11"
+pec,1953296,"Valve,non return"
+pec,1954793,"Pin,connecting"
+pec,1955404,"Pipe,coolant,11-31"
+pec,1955967,"Pipe,coolant,00-11"
+pec,1955969,"Pipe,coolant,00-11"
+pec,1955971,"Pipe,coolant,00-11"
+pec,1955972,"Pipe,oil"
+pec,1955973,"Pipe,coolant,00-11"
+pec,1956560,"Pipe,coolant,00-11"
+pec,1956561,"Pipe,coolant,00-11"
+pec,1956632,"Bracket,tension pull"
+pec,1956920,"Nozzle,oil"
+pec,1957037,"Bolt,flange-smooth"
+pec,1958122,"Pipe,sensor"
+pec,1958279,Camshaft
+pec,1958377,Spring cap
+pec,1958642,"Pipe,coolant,11-31"
+pec,1958722,Hub
+pec,1972499,Heat shield
+pec,1972970,"Pipe,fuel system"
+pec,1972973,"Pipe,fuel system"
+pec,1972974,"Pipe,fuel system"
+pec,1972975,"Pipe,fuel system"
+pec,1972976,"Pipe,fuel system"
+pec,1972978,"Bracket,fuel syst."
+pec,1972980,"Plate,guard"
+pec,1972988,"Pipe,fuel system"
+pec,1973051,"Pump,oil"
+pec,1973208,"Pipe,oil"
+pec,1973273,Turbocharger unit
+pec,1973417,"Pipe,fuel system"
+pec,1973418,"Pipe,fuel system"
+pec,1973419,"Pipe,fuel system"
+pec,1973420,"Pipe,fuel system"
+pec,1973421,"Pipe,fuel system"
+pec,1973422,"Pipe,fuel system"
+pec,1973432,"Pipe,coolant,11-31"
+pec,1973433,"Pipe,coolant,11-31"
+pec,1974030,Injector
+pec,1974489,"Pipe,coolant,00-11"
+pec,1974490,"Pipe,coolant,11-31"
+pec,1974491,"Bracket,cooling syst"
+pec,1974717,Starter motor
+pec,1974721,"Pipe,oil"
+pec,1974723,"Pipe,coolant,11-31"
+pec,1974724,"Pipe,coolant,11-31"
+pec,1974727,"Line,air breather"
+pec,1974729,"Pipe,coolant,00-11"
+pec,1974943,Connecting piece
+pec,1975946,"Pin,connecting"
+pec,1976038,"Stud,shouldered,metr"
+pec,1976450,"Pipe,air inlet syst."
+pec,1976451,"Clip,hose/pipe"
+pec,1976452,"Clip,hose/pipe"
+pec,1976456,"Band,fixing"
+pec,1976457,"Clip,hose/pipe"
+pec,1976461,"Pipe,air inlet syst."
+pec,1976463,"Pipe,air inlet syst."
+pec,1976464,"Pipe,air inlet syst."
+pec,1976465,"Bracket,air inlet"
+pec,1976630,"Piston set,engine"
+pec,1977104,Crankshaft
+pec,1977619,"Band,fixing"
+pec,1978179,"Gasket,cylinder head"
+pec,1978258,"Pipe,compressor"
+pec,1978259,"Hose,m40213/40214"
+pec,1978261,"Pipe,compressor"
+pec,1978284,Lifting eye
+pec,1978288,Lifting eye
+pec,1978289,Lifting eye
+pec,1978302,"Bracket,elect.eqpt."
+pec,1978314,"Bracket,elect.eqpt."
+pec,1978318,"Bracket,elect.eqpt."
+pec,1978320,"Bush,adapter"
+pec,1978321,"Bracket,elect.eqpt."
+pec,1979190,"Clip,hose/pipe"
+pec,1979191,"Clip,hose/pipe"
+pec,1979193,"Clip,hose/pipe"
+pec,1979194,"Clip,hose/pipe"
+pec,1979199,"Bracket,mounting"
+pec,1979200,"Pipe,coolant,00-11"
+pec,1979201,"Pipe,coolant,00-11"
+pec,1979202,"Pipe,coolant,00-11"
+pec,1979204,"Pipe,coolant,00-11"
+pec,1981648,Coup.q.rel.fml.
+pec,1982634,"Valve,inlet,cyl.head"
+pec,1982635,"Valve,exh.cyl.head"
+pec,1993509,Flywheel
+pec,1993511,Flywheel
+pec,1995381,Sensor/switch press-
+pec,1999670,"Wiring harness,eng."
+pec,1999895,"Bracket,cooling syst"
+pec,2000084,Engine bearing shell
+pec,2000085,Engine bearing shell
+pec,2000205,"Pump,oil"
+pec,2000736,Plug
+pec,2002051,Camshaft
+pec,2003400,"Piston set,engine"
+pec,2003641,Sensor/switch press-
+pec,2004008,"Strap,clmpg.plast."
+pec,2004268,"Pipe,coolant,11-31"
+pec,2004842,Connecting rod
+pec,2005596,Injector
+pec,2005989,"Vibration damper,eng"
+pec,2005990,"Vibration damper,eng"
+pec,2006244,ECU emission rel.
+pec,2006246,ECU emission rel.
+pec,2006822,Connecting piece
+pec,2007185,"Pump,water"
+pec,2007425,Gear wheel
+pec,2007426,Gear wheel
+pec,2007428,Gear wheel
+pec,2007501,Crankshaft
+pec,2008725,"Ring/disc,puls gen."
+pec,2008923,"Wiring harness,eng."
+pec,2009462,Sensor/switch temp.-
+pec,2009494,"Bracket,elect.eqpt."
+pec,2011392,Flywheel housing
+pec,2012567,Camshaft
+pec,2013449,Holder
+pec,2013452,Holder
+pec,2014306,"Bolt,flange-smooth"
+pec,2014482,Venturi
+pec,2014633,Push rod
+pec,2014634,Push rod
+pec,2014726,"Bracket,elect.eqpt."
+pec,2015228,Electronic unit
+pec,2015562,"Bracket,alternator"
+pec,2019364,Tension pulley
+pec,2020640,"Compressor,air"
+pec,2020644,"Compressor,air"
+pec,2021251,"Pipe,fuel system"
+pec,2021265,"Filter,fuel"
+pec,2021391,Venturi
+pec,2021539,"Pipe,air inlet syst."
+pec,2022354,Bridge valve train
+pec,2022355,Bridge valve train
+pec,2022407,Oil pan
+pec,2022708,"Bush,20-29.9 o.d."
+pec,2025120,"Ring,sealing"
+pec,2025411,Conn.piece with seal
+pec,2027600,"Frame,fixing"
+pec,2028216,"Vibration damper,eng"
+pec,2028771,"Bracket,exh.,engine"
+pec,2029687,"Bracket,v-,obtuse"
+pec,2029688,"Bracket,v-,obtuse"
+pec,2030736,Valve guide
+pec,2031190,"Pipe,coolant,11-31"
+pec,2031300,Camshaft
+pec,2032518,"Pipe,sensor"
+pec,2033020,"Pipe,coolant,11-31"
+pec,2033254,"Cover,valve"
+pec,2033264,"Screw,shoulder"
+pec,2033373,"Plate,locking-"
+pec,2033390,"Pipe,coolant,11-31"
+pec,2033487,"Nozzle,oil"
+pec,2034516,"Label,marking"
+pec,2034562,"Line,air breather"
+pec,2035215,"Bracket,elect.eqpt."
+pec,2035973,"Gasket,exhaust"
+pec,2036658,"Plate,fix.devd.th.8-"
+pec,2036805,"Spring clip,fixing"
+pec,2037337,"Cooler, egr-"
+pec,2037340,"Cooler, egr-"
+pec,2037394,Electronic unit
+pec,2038894,Heat shield
+pec,2038939,Bonded seal
+pec,2041014,Connecting piece
+pec,2041430,"Bracket,v-,obtuse"
+pec,2041908,"Hose,special"
+pec,2042165,"Pump,water"
+pec,2042810,"Pin,cylindrical"
+pec,2042823,Hub
+pec,2042974,"Hose,presh,rub,coola"
+pec,2043594,"Bracket,elect.eqpt."
+pec,2043802,Bonded seal
+pec,2044251,"Strap,clmpg.plast."
+pec,2044455,"Pipe,coolant,00-11"
+pec,2044534,"Pin,connecting"
+pec,2045438,"Pipe,coolant,51-"
+pec,2045457,Mounting block
+pec,2045920,"Wiring harness,eng."
+pec,2046296,"Bracket,elect.eqpt."
+pec,2046298,"Bracket,elect.eqpt."
+pec,2046423,"Hose nozzle,ml./fml."
+pec,2046439,"Pipe,coolant,11-31"
+pec,2046597,Thrustwshr.camshaft
+pec,2046616,"Pipe,flexible"
+pec,2047424,"Frame,fixing"
+pec,2047466,"Ring,sealing"
+pec,2047479,"Manifold,exhaust"
+pec,2047499,Venturi
+pec,2047501,"Line,air breather"
+pec,2047510,"Bracket,alternator"
+pec,2047549,"Pipe,oil"
+pec,2047550,"Pipe,oil"
+pec,2047551,"Pipe,coolant,11-31"
+pec,2047552,"Pipe,coolant,00-11"
+pec,2047554,"Pipe,oil"
+pec,2047557,"Pipe,coolant,00-11"
+pec,2047566,"Pipe,coolant,00-11"
+pec,2047569,"Pipe,oil"
+pec,2047572,"Pipe,coolant,00-11"
+pec,2047573,"Pipe,coolant,00-11"
+pec,2047575,"Pipe,coolant,00-11"
+pec,2047576,"Pipe,coolant,00-11"
+pec,2047577,"Pipe,coolant,00-11"
+pec,2047578,"Pipe,coolant,00-11"
+pec,2047579,"Pipe,coolant,00-11"
+pec,2047580,"Pipe,coolant,00-11"
+pec,2047593,"Pipe,fuel injection"
+pec,2047594,"Pipe,fuel injection"
+pec,2047595,"Pipe,fuel injection"
+pec,2047596,"Pipe,fuel injection"
+pec,2047600,Injector
+pec,2047601,Injector
+pec,2047650,Thrustwshr.crankshft
+pec,2047653,Engine bearing shell
+pec,2047654,Engine bearing shell
+pec,2047760,"Pipe,air inlet syst."
+pec,2048378,"Pipe,coolant"
+pec,2048384,"Pipe,coolant,51-"
+pec,2049691,"Stud,shouldered,metr"
+pec,2049866,"Pipe,air inlet syst."
+pec,2050071,"Pipe,coolant,11-31"
+pec,2050457,"Unit,lubrication"
+pec,2050925,"Pipe,oil"
+pec,2050928,"Pipe,compressor"
+pec,2051972,"Pipe,fuel system"
+pec,2051978,"Bracket,fuel syst."
+pec,2052195,"Bracket,EGR"
+pec,2102331,"Line,air breather"
+pec,2102335,"Pipe,coolant,11-31"
+pec,2102341,"Pipe,coolant,11-31"
+pec,2102342,"Pipe,coolant,11-31"
+pec,2102345,"Hose,m40213/40214"
+pec,2102346,"Pipe,sensor"
+pec,2102391,"Pump,fuel"
+pec,2102427,"Pipe,sensor"
+pec,2102435,"Bracket,air inl.eng."
+pec,2102436,"Bracket,air inl.eng."
+pec,2102462,"Pipe,coolant,11-31"
+pec,2102463,"Pipe,coolant,11-31"
+pec,2102468,"Pipe,coolant,11-31"
+pec,2102469,"Pipe,coolant,11-31"
+pec,2104599,"Wiring harness,eng."
+pec,2104751,"Wiring harness,eng."
+pec,2104843,"Cover,cyl.block"
+pec,2104861,"Ring/disc,puls gen."
+pec,2104874,Connecting rod
+pec,2106210,"Gasket,exhaust"
+pec,2106218,Gasket general
+pec,2106220,"Gasket,exhaust"
+pec,2106744,Gear wheel
+pec,2107858,Spring cap
+pec,2107859,Spring cap
+pec,2107869,"Pipe,coolant"
+pec,2107871,"Filter,fuel"
+pec,2107874,"Pipe,coolant,00-11"
+pec,2108347,"Stud,shouldered,metr"
+pec,2108512,Flywheel housing
+pec,2109555,Electronic unit
+pec,2110623,Housing
+pec,2110630,"Hose,special"
+pec,2110633,"Pin,connecting"
+pec,2110640,Cyl.block.pre-assy.
+pec,2110806,"Bracket,elect.eqpt."
+pec,2111031,"Pipe,coolant,11-31"
+pec,2111239,"Bracket,clamp.spec."
+pec,2112201,"Ring,sealing"
+pec,2112202,"Ring,sealing"
+pec,2112205,"Valve,inlet,cyl.head"
+pec,2112206,"Valve,exh.cyl.head"
+pec,2112207,"Valve,exh.cyl.head"
+pec,2112272,Sensor/switch temp.-
+pec,2112287,"Bracket,elect.eqpt."
+pec,2112481,Camshaft
+pec,2113691,"Spring clip,fixing"
+pec,2114383,"Bolt,flange-lock.cd"
+pec,2114882,"Plate,guard"
+pec,2115000,"Piston set,engine"
+pec,2115212,Cyl.block.pre-assy.
+pec,2115424,Cylinder head
+pec,2117464,Turbocharger unit
+pec,2117494,"Pipe,fuel system"
+pec,2117496,"Pipe,fuel system"
+pec,2117705,"Wiring harness,eng."
+pec,2117832,Bridge valve train
+pec,2118303,"Hose,special"
+pec,2118305,"Pipe,compressor"
+pec,2118306,"Pipe,compressor"
+pec,2118307,"Hose,presh,rub,coola"
+pec,2118308,"Rubber hose, coolant"
+pec,2118312,"Silencer,air inlet"
+pec,2118329,Strap
+pec,2118330,"Pipe,compressor"
+pec,2118331,"Pipe,compressor"
+pec,2118332,"Hose,presh,rub,coola"
+pec,2118333,"Hose,presh,rub,coola"
+pec,2118375,"Block,clamping-"
+pec,2118376,Lifting eye
+pec,2118381,Flywheel
+pec,2118385,"Line,air breather"
+pec,2118405,Cover
+pec,2118425,"Pipe,fuel system"
+pec,2118432,"Bracket,air inlet"
+pec,2118688,"Plate,fix.devd.th2-4"
+pec,2118902,Bridge valve train
+pec,2118926,"Bolt,flange-lock.cd"
+pec,2118984,"Manifold,exhaust"
+pec,2118986,"Bolt,flange-smooth"
+pec,2118987,"Bolt,flange-smooth"
+pec,2119259,"Bracket,cooling syst"
+pec,2119774,Injector sleeve
+pec,2119935,"Sensor, gas"
+pec,2119950,Injector
+pec,2120116,"Bracket,elect.eqpt."
+pec,2120190,"Gasket,exhaust"
+pec,2120831,"Wiring harness,eng."
+pec,2121051,"Clip,hose/pipe"
+pec,2121398,"Ring,O-"
+pec,2121411,"Compressor,air"
+pec,2121412,"Compressor,air"
+pec,2121503,"Bracket,engine"
+pec,2121512,"Damper,vibration"
+pec,2121779,"Unit,lubrication"
+pec,2121993,Ppc-male
+pec,2122135,"Line,air breather"
+pec,2123260,"Block,clamping-"
+pec,2123993,"Valve,control"
+pec,2123994,"Valve,control"
+pec,2123995,"Valve,control"
+pec,2124267,Cover
+pec,2124403,"Pipe,fuel system"
+pec,2124404,"Pipe,fuel system"
+pec,2124547,Engine brake
+pec,2124729,"Manifold,exhaust"
+pec,2124730,"Manifold,exhaust"
+pec,2125074,Conn.piece with seal
+pec,2125762,Cylinder head
+pec,2125763,Cylinder head
+pec,2126043,Gear wheel
+pec,2126044,Gear wheel
+pec,2126046,Gear wheel
+pec,2126047,Gear wheel
+pec,2126146,"Separator,oil"
+pec,2126303,"Pump,water"
+pec,2126308,"Pump,water"
+pec,2126626,Camshaft
+pec,2126627,Camshaft
+pec,2126628,Camshaft
+pec,2126661,Ppc-male
+pec,2126769,"Bracket,elect.eqpt."
+pec,2126790,Camshaft
+pec,2126981,Sensor/switch press-
+pec,2127001,"Compressor,air"
+pec,2127002,"Compressor,air"
+pec,2127034,"Pipe,coolant,00-11"
+pec,2127215,"Pipe,fuel system"
+pec,2127216,"Pipe,fuel system"
+pec,2127217,"Pipe,fuel system"
+pec,2127218,"Pipe,fuel system"
+pec,2127237,"Pump,oil"
+pec,2127347,"Bolt,banjo-"
+pec,2127356,Sensor/switch press-
+pec,2127357,Sensor/switch press-
+pec,2127358,Sensor/switch press-
+pec,2127478,"Pipe,coolant,00-11"
+pec,2128129,"Pipe,coolant,11-31"
+pec,2128138,Turbocharger unit
+pec,2128139,Turbocharger unit
+pec,2128145,"Valve,control"
+pec,2128149,"Pipe,air inlet syst."
+pec,2128150,Turbocharger unit
+pec,2128151,Turbocharger unit
+pec,2128461,"Pipe,coolant,00-11"
+pec,2128557,"Pipe,coolant,11-31"
+pec,2128692,"Bracket,fuel syst."
+pec,2128693,"Bracket,fuel syst."
+pec,2128694,"Bracket,fuel syst."
+pec,2128860,"Valve,control"
+pec,2128862,"Valve,control"
+pec,2128864,"Valve,control"
+pec,2128866,"Valve,control"
+pec,2128867,"Valve,control"
+pec,2128868,"Valve,control"
+pec,2128939,Connecting bend
+pec,2129157,Engine brake
+pec,2130899,Bonded seal
+pec,2131150,Valve train casing
+pec,2131567,"Nozzle,oil"
+pec,2132320,"Bracket,air inl.eng."
+pec,2132480,"Ring,O-"
+pec,2132485,Gasket general
+pec,2132521,Sensor/switch press-
+pec,2132582,"Piston set,engine"
+pec,2132736,"Pump,oil"
+pec,2132928,"Pump,oil"
+pec,2133324,"Clip,pipe-1-6 lines"
+pec,2133334,"Pipe,compressor"
+pec,2133335,"Pipe,compressor"
+pec,2133336,"Stud,shouldered,metr"
+pec,2133337,"Pipe,compressor"
+pec,2133339,"Bracket,elect.eqpt."
+pec,2133996,"Valve,exh.cyl.head"
+pec,2134899,"Pipe,coolant,11-31"
+pec,2135132,"Pipe,compressor"
+pec,2135133,"Pipe,compressor"
+pec,2135209,"Bolt,flange-smooth"
+pec,2135321,"Spring clip,fixing"
+pec,2136144,"Pipe,coolant,00-11"
+pec,2137173,Strap
+pec,2137593,Sensor/switch press-
+pec,2138143,"Gasket,exhaust"
+pec,2138144,Gasket general
+pec,2138536,Guide
+pec,2138755,"Bush,adapter"
+pec,2139330,Bridge valve train
+pec,2139800,"Compressor,air"
+pec,2139938,"Bracket,engine"
+pec,2139939,"Bracket,engine"
+pec,2140092,"Rubber hose, coolant"
+pec,2140158,"Pipe,coolant,00-11"
+pec,2140216,"Line,air breather"
+pec,2140380,"Pipe,fuel system"
+pec,2140521,"Pipe,coolant,00-11"
+pec,2140648,Tension pulley
+pec,2140702,"Bracket,engine"
+pec,2140903,"Bracket,elect.eqpt."
+pec,2140940,"Pipe,coolant,00-11"
+pec,2140991,"Pipe,sensor"
+pec,2140992,"Pipe,sensor"
+pec,2140993,"Pipe,sensor"
+pec,2140994,"Pipe,sensor"
+pec,2141598,"Bracket,elect.eqpt."
+pec,2141908,"Bracket,elect.eqpt."
+pec,2142610,Heat shield
+pec,2142938,"Bracket,EGR"
+pec,2143061,Tension pulley
+pec,2144192,Strap
+pec,2144193,"Pipe,compressor"
+pec,2144194,"Pipe,compressor"
+pec,2144302,Rocker arm group
+pec,2144303,Rocker arm group
+pec,2144944,"Wiring harness,eng."
+pec,2144945,"Wiring harness,eng."
+pec,2145185,Strap
+pec,2145586,Flange pipe coupling
+pec,2146035,Plug
+pec,2146346,Cylinder head
+pec,2146570,Valve train casing
+pec,2146752,"Unit,lubrication"
+pec,2146810,"Wiring harness,eng."
+pec,2146811,"Wiring harness,eng."
+pec,2146844,"Cover,valve"
+pec,2146849,"Bracket,elect.eqpt."
+pec,2146987,"Wiring harness,eng."
+pec,2147402,"Line,air breather"
+pec,2147434,"Pipe,coolant,00-11"
+pec,2147686,"Unit,lubrication"
+pec,2148393,"Pipe,air inlet syst."
+pec,2149055,Tension pulley
+pec,2149748,Push rod
+pec,2151494,"Bolt,flange-smooth"
+pec,2151522,"Seal ring,crankshaft"
+pec,2151788,"Wiring harness,eng."
+pec,2153275,"Block,clamping-"
+pec,2153522,Gear wheel
+pec,2153692,Hub
+pec,2153770,"Bracket,mounting"
+pec,2154313,Oil pan
+pec,2154314,Oil pan
+pec,2154633,Cylinder head
+pec,2156301,"Unit,lubrication"
+pec,2156502,"Seal ring,crankshaft"
+pec,2156694,"Line,air breather"
+pec,2156710,Coup.q.rel.fml.
+pec,2156973,"Bracket,elect.eqpt."
+pec,2157845,Engine brake
+pec,2158046,"Bracket,elect.eqpt."
+pec,2159710,"Bracket,ang.90 degs."
+pec,2159858,"Separator,oil"
+pec,2159859,Heat shield
+pec,2160362,Rocker arm group
+pec,2160391,Connector parts
+pec,2162359,"Valve,control"
+pec,2162360,"Valve,control"
+pec,2162361,"Valve,control"
+pec,2162674,"Unit,lubrication"
+pec,2162691,"Pump,power steering"
+pec,2162717,"Valve,control"
+pec,2162724,"Pipe,compressor"
+pec,2162785,"Ring,sealing"
+pec,2163001,Power take off assy.
+pec,2163002,Power take off assy.
+pec,2163988,"Pipe,oil"
+pec,2163989,"Pipe,oil"
+pec,2163990,"Pipe,oil"
+pec,2164457,"Filter,fuel"
+pec,2164460,"Filter,fuel"
+pec,2164461,"Filter,fuel"
+pec,2164501,Cyl.block.pre-assy.
+pec,2165083,Turbocharger unit
+pec,2165088,Turbocharger unit
+pec,2165153,Cyl.block.pre-assy.
+pec,2181734,"Seal ring,crankshaft"
+pec,2181735,"Seal ring,crankshaft"
+pec,2182962,"Washer,plain-hard"
+pec,2183414,"Band,fixing"
+pec,2183416,"Band,fixing"
+pec,2183697,Spring cap
+pec,2184059,"Filter,fuel"
+pec,2184182,Flywheel housing
+pec,2184184,Flywheel housing
+pec,2184209,"Cover,cyl.block"
+pec,2184212,Flywheel housing
+pec,2184938,Cylinder head
+pec,2184939,Cylinder head
+pec,2184940,Cylinder head
+pec,2184943,Cylinder head
+pec,2184944,Cylinder head
+pec,2185157,"Pipe,coolant,11-31"
+pec,2189909,Connecting piece
+pec,2192504,"Pipe,coolant"
+pec,2192583,Conn.piece with seal
+pec,2192934,"Valve,control"
+pec,2194632,"Pipe,coolant"
